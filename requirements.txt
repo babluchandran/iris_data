@@ -1,0 +1,9 @@
+flask
+numpy
+pickle-mixin
+sklearn
+flask_restful
+ipandas
+gunicorn
+pandas
+joblib
